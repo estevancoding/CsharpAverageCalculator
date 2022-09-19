@@ -1,4 +1,4 @@
-﻿Console.WriteLine("---------------------------");
+﻿           Console.WriteLine("---------------------------");
             Console.WriteLine("   CALCULADORA DE MÈDIA    ");
             Console.WriteLine("---------------------------");
 
